@@ -18,25 +18,6 @@ Generally, I am involved in a lot of stuff, like:
 
 I also love lasagna 🍕
 
-### Technologies I love 👨‍💻
-
-As a User Interfaces Developer, I generally work with:
-
-- Typescript
-- Javascript
-- SCSS
-- Node
-- Git
-- Webpack
-- React
-- Linux
-
-But I also love a lot of other technologies and use them in my hobbies, like:
-
-- Rust
-- Haskell
-- Raspberry
-
 ### Work 💻
 
 I am currently working at **Globo.com** as a **Smart TV Developer**.  
