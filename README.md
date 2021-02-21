@@ -14,7 +14,7 @@ Generally, I am involved in a lot of stuff, like:
 - Coding challenges
 - Computer Science degree
 - Functional Programming evangelization
-- Surf, boxing, and workout 🏄
+- Surf, boxing, workout, and music 🏄🎸
 
 I also love lasagna 🍕
 
