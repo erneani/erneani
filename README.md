@@ -20,17 +20,14 @@ I also love lasagna 🍕
 
 ### Work 💻
 
-I am currently working at **Globo.com** as a **Smart TV Developer**.  
+I am currently working at **Thoughtworks** as a **Senior Software Consultant**.  
 
-Here, I have the opportunity to use edge technologies to solve complex problems of the TV ecosystem.  
+Here, I have the opportunity to use consulting skills and edge technologies to solve complex problems from clients around the world.
 
-Not only this, but I am also responsible for **study, create, test, and deploy** features that will improve the company applications.
+At Thoughtworks we use agile methodologies to delivery high impact to our clients and right now I am working on a complex codebase with a lot of technical and consulting challenges.
 
-Some of the technologies and concepts I work with:
-
+Some technologies I am using right now:
 - Typescript
-- React
-- CSS-in-JS
-- Jest
-- Functional Programming
-- Monorepo architecture
+- Angular
+- Sass
+- Gulp
