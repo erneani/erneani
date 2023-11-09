@@ -1,33 +1,33 @@
-## Hello, I am Ernani (he/his)! ✨
+## Hey, call me Ernani (he/his)! ✨
 
-I am a developer that believes the technology is better when it is intuitive and accessible to everyone.  
+I am a developer with more than 6 years of experience in building amazing digital experiences while breaking some applications and solving some bugs.
 
-For me, the UX of an application is as important as the functionalities that are implemented. 
+📍 From Natal, Rio Grande do Norte, 🇧🇷.
 
 ### About me 📖
 
-Brazillian living in Ceará-Mirim, Rio Grande do Norte, I am a Software Developer with a focus on user interfaces that loves UX Design and Javascript.  
+I am a creative engineer and Front End specialist with experience building full-cycle applications for big companies around the world.
 
-Generally, I am involved in a lot of stuff, like: 
+Usually I am enrolled in a lot of things like: 
 
-- Professional Frontend Development 
-- Coding challenges
+- Software Architecture
+- Coding communities
 - Computer Science degree
-- Functional Programming evangelization
-- Surf, boxing, workout, and music 🏄🎸
-
-I also love lasagna 🍕
+- Teaching programming
+- Music and sports 🤸 🎸
 
 ### Work 💻
 
-I am currently working at **Thoughtworks** as a **Senior Software Consultant**.  
+I am currently delivering extraordinary impact in **Thoughtworks** as a **Senior Software Consultant**
 
-Here, I have the opportunity to use consulting skills and edge technologies to solve complex problems from clients around the world.
+My challenge right now is to build a world-wide distributed system for a big oil and gas company with an eye for security, correctness and data availability.
 
-At Thoughtworks we use agile methodologies to delivery high impact to our clients and right now I am working on a complex codebase with a lot of technical and consulting challenges.
+The stack I am using right now is:
 
-Some technologies I am using right now:
-- Typescript
-- Angular
-- Sass
-- Gulp
+- C# with .NET for back end
+- Python with Flask for back end as well
+- Typescript with Angular for front end
+- Azure for cloud
+- Azure Functions for FaaS
+- Azure Service Bus for messaging
+- Terraform for making sure cloud will work as expected
