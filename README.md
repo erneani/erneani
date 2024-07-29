@@ -25,3 +25,7 @@ Right now I am working with:
 - Java (with Spring) and Go for back end development,
 - Typescript and Javascript (with React) for front end development,
 - AWS and Google Cloud for cloud services.
+
+### Extra thoughts 💭
+
+I should add more awesome projects to Github...
