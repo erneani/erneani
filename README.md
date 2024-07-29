@@ -1,33 +1,27 @@
-## Hey, call me Ernani (he/his)! ✨
+## _Oi_, call me Ernani (he/his)! ✨
 
-I am a developer with more than 6 years of experience in building amazing digital experiences while breaking some applications and solving some bugs.
+I have been bulding and breaking software for 7+ years while developing amazing digital experiences and solving some bugs.
 
-📍 From Natal, Rio Grande do Norte, 🇧🇷.
+📍 From [Natal](https://en.wikipedia.org/wiki/Natal,_Rio_Grande_do_Norte), Rio Grande do Norte, 🇧🇷.
 
 ### About me 📖
 
-I am a creative engineer and Front End specialist with experience building full-cycle applications for big companies around the world.
+I am a full-cycle software engineer specialized in Front End development with work experience in some of the world's biggest companies like Asus, Thoughtworks, and Mercado Libre.
 
-Usually I am enrolled in a lot of things like: 
+Some subjects really caught my attention the last few months, like: 
 
-- Software Architecture
-- Coding communities
-- Computer Science degree
-- Teaching programming
-- Music and sports 🤸 🎸
+- Reactive software architecture,
+- High quality code (and tests),
+- Graphs (from mathematics) and otimization,
+- Concurrent programming,
+- Music production 🎵, functional programming and voleiball 🏐.
 
 ### Work 💻
 
-I am currently delivering extraordinary impact in **Thoughtworks** as a **Senior Software Consultant**
+I am currently changing millions of LATAM's lifes at **Mercado Libre** as a **Senior Software Engineer**.
 
-My challenge right now is to build a world-wide distributed system for a big oil and gas company with an eye for security, correctness and data availability.
+Right now I am working with:
 
-The stack I am using right now is:
-
-- C# with .NET for back end
-- Python with Flask for back end as well
-- Typescript with Angular for front end
-- Azure for cloud
-- Azure Functions for FaaS
-- Azure Service Bus for messaging
-- Terraform for making sure cloud will work as expected
+- Java (with Spring) and Go for back end development,
+- Typescript and Javascript (with React) for front end development,
+- AWS and Google Cloud for cloud services.
